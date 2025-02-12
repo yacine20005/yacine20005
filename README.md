@@ -25,6 +25,6 @@ Salut ! Je m'appelle **Yacine** et je suis actuellement étudiant en **Licence I
 ![](https://github-contributor-stats.vercel.app/api?username=yacine20005&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yacine20005&icon=0&color=4)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{yacine20005}/count.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
