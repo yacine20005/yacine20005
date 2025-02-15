@@ -1,7 +1,7 @@
 # 💫 À propos de moi:
 Salut ! Je m'appelle **Yacine** et je suis actuellement étudiant en **Licence Informatique** à l'**Université Gustave Eiffel** 🎓 où je transforme le café ☕ en code (et parfois en bugs). 
-<br><br>🚀 Je travaille sur divers projets, qu'ils soient personnels ou académiques, qui me permettent de mettre en pratique mes compétences et parfois d'explorer de nouvelles technologies 🔍. N'hésite pas à jeter un œil à mes dépôts pour découvrir mes réalisations et collaborations 🤝.
-<br><br>🎯 Toujours avide d'apprendre, je suis à la recherche d'opportunités pour relever de nouveaux défis et collaborer sur des projets innovants 💡. Mon but est de perfectionner mes compétences en programmation.
+<br><br>🚀 Je travaille sur divers projets, qu'ils soient personnels ou académiques, qui me permettent de mettre en pratique mes compétences et parfois d'explorer de nouvelles techs 🔍. N'hésite pas à jeter un œil à mes dépôts pour découvrir mes réalisations et collaborations 🤝.
+<br><br>🎯 Je suis à la recherche d'opportunités pour relever de nouveaux défis et collaborer sur des projets innovants 💡. Mon but est de perfectionner mes compétences en programmation.
 <br><br>Merci de votre visite sur mon GitHub, et n'hésitez pas à me contacter pour échanger ou collaborer 📩 !<br>
 
 
