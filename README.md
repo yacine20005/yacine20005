@@ -21,9 +21,6 @@ Salut ! Je m'appelle **Yacine** et je suis actuellement étudiant en **Licence I
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yacine20005&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
-
 ---
 ![Visitor Count](https://profile-counter.glitch.me/{yacine20005}/count.svg)
 
