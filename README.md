@@ -5,7 +5,7 @@ Salut ! Je m'appelle **Yacine** et je suis actuellement étudiant en **Licence I
 <br><br>Merci de votre visite sur mon GitHub, et n'hésitez pas à me contacter pour échanger ou collaborer 📩 !<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/279308005428690944) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yacine20005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yacine-hamadouche) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yacine.hamadouche@edu.univ-eiffel.fr) 
 
 # 💻 Tech Stack:
@@ -15,14 +15,14 @@ Salut ! Je m'appelle **Yacine** et je suis actuellement étudiant en **Licence I
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yacine20005&theme=shadow_red&hide_border=false&locale=fr)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yacine20005&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=fr)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yacine20005&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
-### 📲 Visitor Count
+# 📲 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{yacine20005}/count.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
