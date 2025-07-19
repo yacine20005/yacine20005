@@ -22,8 +22,4 @@ Hi! My name is **Yacine** and I am currently a student in **Computer Science** a
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
----
-# 📲 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{yacine20005}/count.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
