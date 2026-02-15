@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hi! My name is **Yacine** and I am currently a student in **Computer Science** at **Gustave Eiffel University** where I turn coffee ☕ into code (and sometimes into bugs). 
 <br><br>I work on various projects, whether personal or academic, which allow me to put my skills into practice and sometimes explore new technologies. Feel free to check out my repositories to discover my achievements and collaborations.
-<br><br>I am looking for opportunities to take on new challenges and collaborate on innovative projects. My goal is to perfect my programming skills.
-<br><br>Thank you for visiting my GitHub, and feel free to contact me to chat or collaborate 📩!<br>
 
 
 # 🌐 Socials:
