@@ -4,7 +4,10 @@ Hi! My name is **Yacine** and I am currently a student in **Computer Science** a
 
 
 # 🌐 Socials:
-[![Static Badge](https://img.shields.io/badge/Portfolio-Portfolio?style=for-the-badge&color=red)](https://yacine-hamadouche.me/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/279308005428690944) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yacine-hamadouche) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ya.hamadouche@gmail.com)
+[Portfolio](https://yacine-hamadouche.me/) 
+[Discord](https://discordapp.com/users/279308005428690944) 
+[LinkedIn](https://linkedin.com/in/yacine-hamadouche) 
+[Mail](mailto:ya.hamadouche@gmail.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yacine20005&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&locale=en)<br/>
