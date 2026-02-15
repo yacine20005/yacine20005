@@ -5,9 +5,9 @@ Hi! My name is **Yacine** and I am currently a student in **Computer Science** a
 
 # 🌐 Socials:
 [Portfolio](https://yacine-hamadouche.me/) 
-[Discord](https://discordapp.com/users/279308005428690944) 
-[LinkedIn](https://linkedin.com/in/yacine-hamadouche) 
-[Mail](mailto:ya.hamadouche@gmail.com)
+<br><br>[Discord](https://discordapp.com/users/279308005428690944) 
+<br><br>[LinkedIn](https://linkedin.com/in/yacine-hamadouche) 
+<br><br>[Mail](mailto:ya.hamadouche@gmail.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yacine20005&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&locale=en)<br/>
